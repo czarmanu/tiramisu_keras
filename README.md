@@ -1,3 +1,6 @@
+## Lake Ice Monitoring with Webcams
+![Lake ice moniotring](images/webcams_tiramisu.png)
+
 # tiramisu_keras
 
 This repository is the implementation (keras) of: 
