@@ -1,11 +1,10 @@
 ## Lake Ice Monitoring with Webcams
-![Lake ice moniotring](images/webcams_tiramisu.png)
-
-# tiramisu_keras
 
 This repository is the implementation (keras) of: 
 
 Xiao M., Rothermel M., Tom M., Galliani S., Baltsavias E., Schindler K.: [Lake Ice Monitoring with Webcams](https://www.isprs-ann-photogramm-remote-sens-spatial-inf-sci.net/IV-2/311/2018/isprs-annals-IV-2-311-2018.pdf), ISPRS Annals of the Photogrammetry, Remote Sensing and Spatial Information Sciences, IV-​2, pages 311-​317, 2018
+
+![Lake ice moniotring](images/webcams_tiramisu.png)
 
 This work is part of the [Lake Ice Project (Phase 1)](https://prs.igp.ethz.ch/research/completed_projects/integrated-monitoring-of-ice-in-selected-swiss-lakes.html). Here is the link to [Phase 2](https://prs.igp.ethz.ch/research/current_projects/integrated-lake-ice-monitoring-and-generation-of-sustainable--re.html) of the same project.
 
