@@ -1,4 +1,4 @@
-## Lake Ice Monitoring with Webcams
+# Lake Ice Monitoring with Webcams
 
 This repository is the implementation (keras) of: 
 
@@ -41,7 +41,7 @@ python train.py PATH_TO_IMAGE PATH_TO_HDF5 NAME_OF_HDF5_FILE --dim_patch PATCH_S
 ### Testing
 python test.py PATH_TO_STORE_PREDICTION NAME_OF_THE_MODEL DATA_FILE_NAME --dim_patch PATCH_SIZE
 
-## Citation
+### Citation
 @Article{muyan_lakeice_2018,
 AUTHOR = {Xiao, M. and Rothermel, M. and Tom, M. and Galliani, S. and Baltsavias, E. and Schindler, K.},
 TITLE = {Lake ice monitoring with webcams},
